@@ -45,11 +45,11 @@ const Guide = () => {
                 <p className="regular-16 text-gray-20">Destination</p>
                 <p className="bold-16 text-green-50">48 min</p>
               </div>
-              <p className="bold-20 mt-2">Aguas Kenya</p>
+              <p className="bold-20 mt-2">Lamu Archipelago</p>
             </div>
             <div className="flex w-full flex-col">
               <p className="regular-16 text-gray-20">Start track</p>
-              <h4 className="bold-20 mt-2 whitespace-nowrap">Karura Kenya</h4>
+              <h4 className="bold-20 mt-2 whitespace-nowrap">Lamu Town</h4>
             </div>
           </div>
         </div>

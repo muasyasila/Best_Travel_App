@@ -1,3 +1,13 @@
+## Demo
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FzbGd4MTYxZGV0eWc3NnczeXFlazN2cTl3Nzdzd3hyOGxuc3NkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hXIFj18RB2uaj5HQj5/giphy-downsized-large.gif" alt="Gif" width="400" height="auto">
+
+
+
+
+Check out the live demo [here](https://best-travel-app-one.vercel.app/)! </div>
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
